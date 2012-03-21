@@ -1,0 +1,3 @@
+The purpose of this module is to change the grades of students. It will take two command line arguments: a string and a number, and read input formatted like ['files/grades.csv'] from standard input.  If the string supplied on the command line is found anywhere on a line of input, then the grade on that line should be changed to that number and the modified line printed to standard out.  Lines that do not match the string should be printed back to standard out unchanged.
+
+
